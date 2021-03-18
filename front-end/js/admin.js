@@ -1,4 +1,4 @@
-const endpoint = 'http://localhost:9080/comp4537/api/v1/'
+const endpoint = 'https://comp4537.lambertchan.ca/assignments/1/'
 const mc_enum = {
     0: 'A',
     1: 'B',
